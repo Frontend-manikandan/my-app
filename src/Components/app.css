@@ -1,0 +1,32 @@
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.about{
+   text-align: left;
+   background-color: black;
+   color:darkviolet
+}
+#foot{
+  text-align: center;
+  border-radius: 15px;
+  background-color: black;
+  color:crimson;
+}
+.home{
+  margin: 20px;
+  margin-left: 50px;
+}
+.img img{
+  height: 50px;
+  width: 50px;
+}
+.const img{
+  height: 30px;
+  width: 30px;
+}
+#cont{
+  text-align: center;
+  color: white;
+  background-color: whitesmoke;
+}
